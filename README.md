@@ -4,7 +4,7 @@ Plugin for [`docums`](https://khanhduy1407.github.io/docums) to create page redi
 
 ## Installing
 
-> **Note:** This package requires Docums version 1.0.0 or higher.
+> **Note:** This package requires Docums version 1.0.0.0 or higher.
 
 Install with pip:
 

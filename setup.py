@@ -19,7 +19,7 @@ setup(
     license='MIT',
     python_requires='>=2.7',
     install_requires=[
-        'docums>=1.0.0',
+        'docums>=1.0.0.0',
     ],
     extras_require={
         'release': [
