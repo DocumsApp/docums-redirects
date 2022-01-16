@@ -13,7 +13,7 @@ setup(
     long_description=read('README.md'),
     long_description_content_type="text/markdown",
     keywords='docums redirect',
-    url='https://github.com/datarobot/docums-redirects',
+    url='https://github.com/khanhduy1407/docums-redirects',
     author='NKDuy',
     author_email='kn145660@gmail.com',
     license='MIT',
